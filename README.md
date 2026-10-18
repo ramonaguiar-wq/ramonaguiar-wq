@@ -9,7 +9,8 @@ I design products, then write the small agents and pipelines that remove the rep
 |---|---|---|
 | [**job-hunt-agent**](https://github.com/ramonaguiar-wq/job-hunt-agent) | Hunts remote design jobs, ranks them against hard rules kept as data, drafts outreach. A human approves every message. | Python, Node, Claude CLI |
 | [**video-edit-pipeline**](https://github.com/ramonaguiar-wq/video-edit-pipeline) | Raw clips to silence-trimmed preview and Premiere XML from a diffable JSON plan. Titles and cutaways anchor to spoken words. | Python, ffmpeg, Whisper |
-| [**design-system-tokens**](https://github.com/ramonaguiar-wq/design-system-tokens) | Design tokens (JSON) and a dense, interactive analytics table built on them. | JSON, React, Tailwind |
+| [**agent-orchestrator**](https://github.com/ramonaguiar-wq/agent-orchestrator) | Routes each task to Claude or Gemini from a JSON table, tracks token budgets and session health, falls back on failure. | Node.js, Claude CLI, Gemini API |
+| [**design-system-tokens**](https://github.com/ramonaguiar-wq/design-system-tokens) | 87 semantic design tokens (JSON) documented from a dense, interactive analytics table. | JSON, React, Tailwind |
 
 ## How I work
 
