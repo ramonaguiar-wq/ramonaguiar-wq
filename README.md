@@ -1,3 +1,5 @@
+<img src="assets/banner.jpg" alt="Turning complex products into clear experiences." width="100%">
+
 # Hi, I'm Ramon 👋
 
 **Product Designer (11+ years) who builds with AI.**
