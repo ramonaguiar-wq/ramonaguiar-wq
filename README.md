@@ -2,7 +2,7 @@
 
 # Hi, I'm Ramon 👋
 
-**Product Designer (11+ years) who builds with AI.**
+**Senior Product Designer (11+ years) who builds with AI.**
 I design products, then write the small agents and pipelines that remove the repetitive parts of my own work. Senior Product Designer. I work remotely with US, UK, EU and LATAM teams, in English.
 
 ## What I build
